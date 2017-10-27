@@ -1,0 +1,22 @@
+.appItem{
+	font-size: 20pt;
+	margin-bottom: 0.6em;
+	border-bottom: 1px solid #aaa;
+	padding: 0.5em 0 0.17em 0;
+	color: #000;
+}
+
+.btn{
+	font-size: 20pt;
+}
+
+.info{
+	font-size: 20pt;
+	float: center;
+	margin-left: 80px;
+}
+
+.rating{
+	float: right;
+	margin-right: 20px;
+}
